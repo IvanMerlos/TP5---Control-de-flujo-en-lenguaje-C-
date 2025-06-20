@@ -1,3 +1,7 @@
+/*Link de repo:
+https://github.com/IvanMerlos/TP5---Control-de-flujo-en-lenguaje-C-
+*/
+
 #include <stdio.h>
 int n;
 float nota,max,min,promedio = 0;
